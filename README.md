@@ -12,7 +12,7 @@ In this project, I developed a system where users can shorten long URLs and auto
 - **✅ Fake Click Protection:** IP control and rate limiting are implemented to ensure accurate statistics.
 - **✅ Dark Mode Support:** Users can switch between dark and light mode based on their preference.
 - 
-<a href="http://localhost" target="_blank">🖥️ CLICK FOR DEMO</a>
+<a href="https://akifdora.com/projeler/urqrlink/" target="_blank">🖥️ CLICK FOR DEMO</a>
 - demo@demo.com :: demo
 ---
 
@@ -28,8 +28,9 @@ Bu projede, kullanıcıların uzun URL'leri kısaltabileceği ve her kısaltılm
 - **✅ Fake Tıklama Koruması:** İstatistiklerin doğruluğunu korumak için IP kontrolü ve rate limiting uygulanmıştır.
 - **✅ Karanlık Mod Desteği:** Kullanıcılar tercihlerine göre karanlık veya aydınlık moda geçebilir.
 
-<a href="http://localhost" target="_blank">🖥️ DEMO İÇİN TIKLA</a>
+<a href="https://akifdora.com/projeler/urqrlink/" target="_blank">🖥️ DEMO İÇİN TIKLA</a>
 - demo@demo.com :: demo
 ---
 
-<p align="center"><img src="https://github.com/akifdora/DorkDB-Telegram-Bot/blob/main/screenshots.jpg" alt="project-image"></p>
+<p align="center"><img src="https://github.com/akifdora/UrQRLink/blob/main/screenshot1.jpg" alt="project-image"></p>
+<p align="center"><img src="https://github.com/akifdora/UrQRLink/blob/main/screenshot2.jpg" alt="project-image"></p>
