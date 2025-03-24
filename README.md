@@ -33,4 +33,4 @@ Bu projede, kullanıcıların uzun URL'leri kısaltabileceği ve her kısaltılm
 ---
 
 <p align="center"><img src="https://github.com/akifdora/UrQRLink/blob/main/screenshot1.png?raw=true" alt="project-image"></p>
-<p align="center"><img src="https://github.com/akifdora/UrQRLink/blob/main/screenshot2.jpg" alt="project-image"></p>
+<p align="center"><img src="https://github.com/akifdora/UrQRLink/blob/main/screenshot2.png?raw=true" alt="project-image"></p>
