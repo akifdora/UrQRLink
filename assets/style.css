@@ -1,0 +1,102 @@
+body {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+body.dark-mode {
+    background-color: #121212;
+    color: #e0e0e0;
+}
+body.dark-mode .card {
+    background-color: #1e1e1e;
+    color: #e0e0e0;
+}
+body.dark-mode .navbar {
+    background-color: #1e1e1e;
+}
+body.dark-mode table.dataTable thead {
+    background-color: #1e1e1e;
+    color: #e0e0e0;
+}
+body.dark-mode .table-striped tbody tr:nth-child(odd) {
+    background-color: #2c2c2c;
+}
+body.dark-mode .form-check-input:checked {
+    background-color: #4b4b4b;
+}
+#themeToggleButton {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 8px 16px;
+    font-size: 14px;
+    border-radius: 50px;
+    cursor: pointer;
+}
+#themeToggleButton:hover {
+    background-color: #343a40;
+}
+body.dark-mode #themeToggleButton {
+    background-color: #343a40;
+    color: #fff;
+}
+body.dark-mode #themeToggleButton:hover {
+    background-color: #495057;
+}
+body.dark-mode .modal-content {
+    background-color: #343a40; /* Koyu arka plan */
+    color: #fff; /* Beyaz yazı rengi */
+}
+body.dark-mode .modal-header {
+    border-bottom: 1px solid #444; /* Koyu çizgi */
+}
+body.dark-mode .modal-footer {
+    border-top: 1px solid #444; /* Koyu çizgi */
+}
+body.dark-mode .btn-close {
+    background-color: #fff; /* Kapatma butonunun arka planı beyaz */
+}
+/* Koyu modda DataTables */
+body.dark-mode .dataTables_wrapper .dataTables_filter input,
+body.dark-mode .dataTables_wrapper .dataTables_length select {
+    background-color: #444; /* Koyu arka plan */
+    color: #fff; /* Beyaz yazı rengi */
+    border: 1px solid #555; /* Koyu sınır */
+}
+body.dark-mode .dataTables_wrapper .dataTables_filter input:focus,
+body.dark-mode .dataTables_wrapper .dataTables_length select:focus {
+    border-color: #666; /* Fokuslandığında daha belirgin sınır */
+    box-shadow: 0 0 5px rgba(255, 255, 255, 0.3); /* Fokus ışık efekti */
+}
+body.dark-mode .dataTables_wrapper .dataTables_paginate .paginate_button {
+    background-color: #444; /* Sayfalama butonu */
+    color: #fff; /* Beyaz yazı rengi */
+    border: 1px solid #555; /* Koyu sınır */
+}
+body.dark-mode .dataTables_wrapper .dataTables_paginate .paginate_button:hover {
+    background-color: #666; /* Hover efekti */
+}
+body.dark-mode .dataTables_wrapper .dataTables_info {
+    color: #fff; /* Beyaz yazı rengi */
+}
+body.dark-mode .dataTables_wrapper .dataTables_length select {
+    background-color: #444; /* Uzunluk seçim kutusunun arka planı */
+    border: 1px solid #555; /* Koyu sınır */
+}
+/* Tablo satırlarının ve hücrelerinin renklerini değiştir */
+body.dark-mode .dataTables_wrapper .dataTable {
+    background-color: #1e1e1e;; /* Tablo arka planı */
+    color: #fff; /* Beyaz yazı rengi */
+}
+body.dark-mode .dataTables_wrapper .dataTable th,
+body.dark-mode .dataTables_wrapper .dataTable td {
+    background-color: #333; /* Tablo arka planı */
+    border: 1px solid #555; /* Koyu sınır */
+    color: #fff;
+}
+body.dark-mode .dataTables_wrapper .dataTable th {
+    background-color: #1e1e1e; /* Başlıkların arka planı */
+    color: #fff;
+}
+body.dark-mode .dataTables_wrapper .dataTable tbody tr:hover {
+    background-color: #555; /* Satır üzerine gelindiğinde renk değişimi */
+}
