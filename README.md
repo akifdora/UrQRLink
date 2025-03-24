@@ -1,1 +1,1 @@
-# UrQRLink
+<p align="center"><img src="https://socialify.git.ci/akifdora/UrQRLink/image?description=1&amp;font=Jost&amp;forks=1&amp;issues=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Plus&amp;pulls=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
